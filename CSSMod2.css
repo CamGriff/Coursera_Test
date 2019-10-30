@@ -39,9 +39,9 @@
     margin-left: auto;
     padding:5px;
    }
-   #chicken{background-color: #lightblue;}
-   #beef{background-color: #lightgreen;}
-   #sushi{background-color: #lightyellow;}
+   #chicken{background-color: lightblue;}
+   #beef{background-color: lightgreen;}
+   #sushi{background-color: lightyellow;}
    
 
 /********** Desktop **********/
